@@ -1,34 +1,20 @@
-import WorkIm from '../assets/projects/workImg.jpeg'
-import RealEst from '../assets/projects/realestate.jpg'
+import chatgpt_api from '../assets/projects/chatgpt_api.png'
+import deluxeauto from '../assets/projects/deluxeauto.png'
 
 export const data=[
     {
         id:1,
-        name:"React JS Application",
-        image:WorkIm,
-        github:"",
-        live:"",
+        name:"SAMPLE",
+        image:deluxeauto,
+        github:"https://github.com/tultraximo/deluxe-auto",
+        // live:"",
     },
     {
         id:2,
-        name:"React JS Application",
-        image:RealEst,
-        github:"",
-        live:"",
-    },
-    {
-        id:3,
-        name:"React JS Application",
-        image:WorkIm,
-        github:"",
-        live:"",
-    },
-    {
-        id:4,
-        name:"React JS Application",
-        image:RealEst,
-        github:"",
-        live:"",
+        name:"SAMPLE",
+        image:chatgpt_api,
+        github:"https://github.com/tultraximo/chatgpt_article_summary_api",
+        // live:"",
     },
 
 
